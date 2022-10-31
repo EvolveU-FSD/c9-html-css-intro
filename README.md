@@ -1,6 +1,6 @@
 # Intro to HTML & CSS
 
-> October 24, 2022
+> October 31, 2022
 
 Hi guys, here you can find the code for our Intro to HTML & CSS session.
 
